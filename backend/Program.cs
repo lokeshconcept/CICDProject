@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-
+// CI
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

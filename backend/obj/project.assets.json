@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New Study\\CICDProject\\backend\\backend.csproj",
+      "projectUniqueName": "E:\\New Study\\CICDProject\\FullStackApp\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "E:\\New Study\\CICDProject\\backend\\backend.csproj",
+      "projectPath": "E:\\New Study\\CICDProject\\FullStackApp\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\lokes\\.nuget\\packages\\",
-      "outputPath": "E:\\New Study\\CICDProject\\backend\\obj\\",
+      "outputPath": "E:\\New Study\\CICDProject\\FullStackApp\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lokes\\AppData\\Roaming\\NuGet\\NuGet.Config"
