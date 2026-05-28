@@ -23,6 +23,6 @@ app.UseSwaggerUI();
 
 app.UseCors("AllowAll");
 
-app.MapGet("/", () => "API Running");
+app.MapGet("/", () => "Backend CI Working!");
 
 app.Run();
